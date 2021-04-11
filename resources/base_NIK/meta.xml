@@ -1,0 +1,6 @@
+<meta>
+	<info author="VSCode MTA:SA Lua" type="script" name="base_NIK" />
+	<script src="g_base_NIK.lua" type="shared" />
+	<script src="c_base_NIK.lua" type="client" cache="false" />
+	<script src="s_base_NIK.lua" type="server" />
+</meta>

@@ -1,0 +1,47 @@
+<meta>
+	<!-- Auto generated using VSCode MTA:SA Lua by Subtixx -->
+	<info type="gamemode" name="Cow catapulting 2.0"/>
+
+	<script src="teams/onLoginSave/g_teams.lua" type="shared" />
+	<script src="rad_area/g_areas.lua" type="shared" />
+	<script src="respawn_Player/g_respawn_Player.lua" type="shared" />
+	<script src="respawn_Vehicle/g_respawn_Vehicle.lua" type="shared" />
+
+	<script src="hud_rad/c_hud_rad.lua" type="client" />
+	<script src="hud_rad/s_hud_rad.lua" type="server" />
+	<script src="level_system/s_level.lua" type="server" />
+	<script src="LoginForm/s_LoginForm.lua" type="server" />
+	<script src="LoginForm/c_LoginForm.lua" type="client" />
+	<file src="inventory/fonts/1.ttf" />
+	<file src="LoginForm/fonts/1.ttf" />
+	<file src="LoginForm/images/02.jpg" />
+	<file src="LoginForm/music/music.mp3" />
+
+	<file src="hud_rad/files/Rad.png" />
+	<file src="hud_rad\files\Vir.png" />
+	<file src="hud_rad\files\Gol.png" />
+
+	<script src="rad_area/s_hillarea.lua" type="server" />
+	<script src="respawn_Player/c_respawn_Player.lua" type="client" />
+	<script src="respawn_Player/s_respawn_Player.lua" type="server" />
+	<script src="respawn_Vehicle/c_respawn_Vehicle.lua" type="client" />
+	<script src="respawn_Vehicle/s_respawn_Vehicle.lua" type="server" />
+	<script src="teams/bandit/s_bandit.lua" type="server" />
+	<script src="teams/military/s_military.lua" type="server" />
+	<script src="teams/mutant/s_mutant.lua" type="server" />
+	<script src="teams/onLoginSave/c_onLoginSave.lua" type="client" />
+	<script src="teams/onLoginSave/s_onLoginSave.lua" type="server" />
+	<script src="teams/stalker/s_stalker.lua" type="server" />
+	<script src="weather\c_weather.lua" type="client" />
+	<script src="weather\s_weather.lua" type="server" />
+
+	<script src="inventory/c_inventory.lua" type="client" cache="false" />
+	<script src="inventory/s_inventory.lua" type="server" />
+
+<settings>
+	<setting name="weather" value = "[7]" />
+	<setting name="skinOnRegisterFemale" value="[193]" />
+	<setting name="skinOnRegisterMale" value="[250]" />
+	<setting name="playerRespawnTime" value="[1000]" />
+</settings>
+</meta>

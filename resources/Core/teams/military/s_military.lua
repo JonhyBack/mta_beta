@@ -1,0 +1,1 @@
+Teams.militaryTeam = createTeam("Военные", 37, 186, 0)

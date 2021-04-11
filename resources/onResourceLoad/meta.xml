@@ -1,0 +1,6 @@
+<meta>
+	<script src="client.lua" type="client" cache="false" />
+	<file src="files/background.jpg" cache="false" />
+	<file src="files/loading.mp3" cache="false" />
+	<download_priority_group>1</download_priority_group>
+</meta>

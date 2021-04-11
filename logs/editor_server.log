@@ -1,0 +1,464 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-01-23 17:16:46] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-01-23 17:16:57] Resource 'dgs' requests some acl rights. Use the command 'aclrequest list dgs'
+[2021-01-23 17:17:09] Resource 'guieditor' requests some acl rights. Use the command 'aclrequest list guieditor'
+[2021-01-23 17:17:27] Resources: 67 loaded, 0 failed
+[2021-01-23 17:17:27] Starting resources...
+[2021-01-23 17:17:27] WARNING: edf <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-23 17:17:27] WARNING: edf requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-23 17:17:27] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-01-23 17:17:27] Server minclientversion is now 1.5.7-9.19626
+[2021-01-23 17:17:29] INFO: WARNING: 'FREEROAM' RESOURCE NOT FOUND.  Editor will not function properly.  Please install the 'freeroam' resource immediately!
+[2021-01-23 17:17:29] ERROR: editor\freeroam.lua:6: attempt to index global 'editor_gui' (a nil value)
+[2021-01-23 17:17:29] Server started and is ready to accept connections!
+[2021-01-23 17:17:29] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-01-23 17:17:29] Type 'help' for a list of commands.
+[2021-01-23 17:17:30] CONNECT: LudicrousHead5 connected (IP: 127.0.0.1  Serial: 33483A3C56C3DA0861C28742BC379D62  Version: 1.5.8-9.20779.0)
+[2021-01-23 17:17:37] JOIN: LudicrousHead5 joined the game (IP: 127.0.0.1)
+[2021-01-23 17:20:30] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000095
+[2021-01-23 17:21:30] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000095
+[2021-01-23 17:22:30] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000095
+[2021-01-23 17:25:30] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000097
+[2021-01-23 17:27:30] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000099
+[2021-01-23 17:28:30] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000099
+[2021-01-23 17:31:27] QUIT: LudicrousHead5 left the game [Quit]
+[2021-01-23 17:31:28] Server stopped!
+[2021-01-23 17:31:28] Stopping resources..........
+[2021-01-23 17:31:28] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-01-23 17:31:37] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-01-23 17:31:38] Resource 'dgs' requests some acl rights. Use the command 'aclrequest list dgs'
+[2021-01-23 17:31:38] Resource 'guieditor' requests some acl rights. Use the command 'aclrequest list guieditor'
+[2021-01-23 17:31:39] Resources: 67 loaded, 0 failed
+[2021-01-23 17:31:39] Starting resources...
+[2021-01-23 17:31:40] WARNING: edf <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-23 17:31:40] WARNING: edf requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-23 17:31:40] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-01-23 17:31:40] Server minclientversion is now 1.5.7-9.19626
+[2021-01-23 17:31:40] INFO: WARNING: 'FREEROAM' RESOURCE NOT FOUND.  Editor will not function properly.  Please install the 'freeroam' resource immediately!
+[2021-01-23 17:31:40] ERROR: editor\freeroam.lua:6: attempt to index global 'editor_gui' (a nil value)
+[2021-01-23 17:31:40] Server started and is ready to accept connections!
+[2021-01-23 17:31:40] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-01-23 17:31:40] Type 'help' for a list of commands.
+[2021-01-23 17:31:41] CONNECT: LudicrousHead5 connected (IP: 127.0.0.1  Serial: 33483A3C56C3DA0861C28742BC379D62  Version: 1.5.8-9.20779.0)
+[2021-01-23 17:31:41] JOIN: LudicrousHead5 joined the game (IP: 127.0.0.1)
+[2021-01-23 17:33:41] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 0000013C
+[2021-01-23 17:34:41] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 0000013C
+[2021-01-23 17:37:07] QUIT: LudicrousHead5 left the game [Quit]
+[2021-01-23 17:37:07] Server stopped!
+[2021-01-23 17:37:07] Stopping resources..........
+[2021-01-23 17:37:07] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-01-23 17:37:14] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-01-23 17:37:14] Resource 'dgs' requests some acl rights. Use the command 'aclrequest list dgs'
+[2021-01-23 17:37:15] Resource 'guieditor' requests some acl rights. Use the command 'aclrequest list guieditor'
+[2021-01-23 17:37:16] Resources: 67 loaded, 0 failed
+[2021-01-23 17:37:16] Starting resources...
+[2021-01-23 17:37:16] WARNING: edf <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-23 17:37:16] WARNING: edf requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-23 17:37:16] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-01-23 17:37:16] Server minclientversion is now 1.5.7-9.19626
+[2021-01-23 17:37:16] INFO: WARNING: 'FREEROAM' RESOURCE NOT FOUND.  Editor will not function properly.  Please install the 'freeroam' resource immediately!
+[2021-01-23 17:37:16] ERROR: editor\freeroam.lua:6: attempt to index global 'editor_gui' (a nil value)
+[2021-01-23 17:37:16] Server started and is ready to accept connections!
+[2021-01-23 17:37:16] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-01-23 17:37:16] Type 'help' for a list of commands.
+[2021-01-23 17:37:17] CONNECT: LudicrousHead5 connected (IP: 127.0.0.1  Serial: 33483A3C56C3DA0861C28742BC379D62  Version: 1.5.8-9.20779.0)
+[2021-01-23 17:37:17] JOIN: LudicrousHead5 joined the game (IP: 127.0.0.1)
+[2021-01-23 17:42:12] QUIT: LudicrousHead5 left the game [Quit]
+[2021-01-23 17:42:14] Server stopped!
+[2021-01-23 17:42:14] Stopping resources..........
+[2021-01-23 17:42:14] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-01-23 17:49:06] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-01-23 17:49:06] Resource 'dgs' requests some acl rights. Use the command 'aclrequest list dgs'
+[2021-01-23 17:49:07] Resource 'guieditor' requests some acl rights. Use the command 'aclrequest list guieditor'
+[2021-01-23 17:49:08] Resources: 67 loaded, 0 failed
+[2021-01-23 17:49:08] Starting resources...
+[2021-01-23 17:49:08] WARNING: edf <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-23 17:49:08] WARNING: edf requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-23 17:49:08] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-01-23 17:49:08] Server minclientversion is now 1.5.7-9.19626
+[2021-01-23 17:49:09] INFO: WARNING: 'FREEROAM' RESOURCE NOT FOUND.  Editor will not function properly.  Please install the 'freeroam' resource immediately!
+[2021-01-23 17:49:09] ERROR: editor\freeroam.lua:6: attempt to index global 'editor_gui' (a nil value)
+[2021-01-23 17:49:09] Server started and is ready to accept connections!
+[2021-01-23 17:49:09] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-01-23 17:49:09] Type 'help' for a list of commands.
+[2021-01-23 17:49:10] CONNECT: LudicrousHead5 connected (IP: 127.0.0.1  Serial: 33483A3C56C3DA0861C28742BC379D62  Version: 1.5.8-9.20779.0)
+[2021-01-23 17:49:10] JOIN: LudicrousHead5 joined the game (IP: 127.0.0.1)
+[2021-01-23 17:55:00] WARNING: editor_main\server\saveloadtest_server.lua:794: Bad argument @ 'stopResource' [Expected resource-data at argument 1, got boolean]
+[2021-01-23 17:55:00] WARNING: editor_main\server\saveloadtest_server.lua:813: Bad argument @ 'stopResource' [Expected resource-data at argument 1, got boolean]
+[2021-01-23 17:56:15] QUIT: LudicrousHead5 left the game [Quit]
+[2021-01-23 17:56:16] Server stopped!
+[2021-01-23 17:56:16] Stopping resources..........
+[2021-01-23 17:56:16] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-01-23 17:56:19] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-01-23 17:56:19] Resource 'dgs' requests some acl rights. Use the command 'aclrequest list dgs'
+[2021-01-23 17:56:20] Resource 'guieditor' requests some acl rights. Use the command 'aclrequest list guieditor'
+[2021-01-23 17:56:21] Resources: 67 loaded, 0 failed
+[2021-01-23 17:56:21] Starting resources...
+[2021-01-23 17:56:21] WARNING: edf <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-23 17:56:21] WARNING: edf requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-23 17:56:21] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-01-23 17:56:21] Server minclientversion is now 1.5.7-9.19626
+[2021-01-23 17:56:22] INFO: WARNING: 'FREEROAM' RESOURCE NOT FOUND.  Editor will not function properly.  Please install the 'freeroam' resource immediately!
+[2021-01-23 17:56:22] ERROR: editor\freeroam.lua:6: attempt to index global 'editor_gui' (a nil value)
+[2021-01-23 17:56:22] Server started and is ready to accept connections!
+[2021-01-23 17:56:22] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-01-23 17:56:22] Type 'help' for a list of commands.
+[2021-01-23 17:56:22] CONNECT: LudicrousHead5 connected (IP: 127.0.0.1  Serial: 33483A3C56C3DA0861C28742BC379D62  Version: 1.5.8-9.20779.0)
+[2021-01-23 17:56:22] JOIN: LudicrousHead5 joined the game (IP: 127.0.0.1)
+[2021-01-23 17:57:23] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000002A7
+[2021-01-23 18:04:49] QUIT: LudicrousHead5 left the game [Quit]
+[2021-01-23 18:04:49] Server stopped!
+[2021-01-23 18:04:49] Stopping resources..........
+[2021-01-23 18:04:49] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-01-23 18:04:53] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-01-23 18:04:54] Resource 'dgs' requests some acl rights. Use the command 'aclrequest list dgs'
+[2021-01-23 18:04:54] Resource 'guieditor' requests some acl rights. Use the command 'aclrequest list guieditor'
+[2021-01-23 18:04:55] Resources: 67 loaded, 0 failed
+[2021-01-23 18:04:55] Starting resources...
+[2021-01-23 18:04:55] WARNING: edf <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-23 18:04:55] WARNING: edf requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-23 18:04:55] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-01-23 18:04:55] Server minclientversion is now 1.5.7-9.19626
+[2021-01-23 18:04:56] INFO: WARNING: 'FREEROAM' RESOURCE NOT FOUND.  Editor will not function properly.  Please install the 'freeroam' resource immediately!
+[2021-01-23 18:04:56] ERROR: editor\freeroam.lua:6: attempt to index global 'editor_gui' (a nil value)
+[2021-01-23 18:04:56] Server started and is ready to accept connections!
+[2021-01-23 18:04:56] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-01-23 18:04:56] Type 'help' for a list of commands.
+[2021-01-23 18:04:57] CONNECT: LudicrousHead5 connected (IP: 127.0.0.1  Serial: 33483A3C56C3DA0861C28742BC379D62  Version: 1.5.8-9.20779.0)
+[2021-01-23 18:04:57] JOIN: LudicrousHead5 joined the game (IP: 127.0.0.1)
+[2021-01-23 18:06:57] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000382
+[2021-01-23 18:19:57] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 0000038A
+[2021-01-23 18:21:54] QUIT: LudicrousHead5 left the game [Quit]
+[2021-01-23 18:21:55] Server stopped!
+[2021-01-23 18:21:55] Stopping resources..........
+[2021-01-23 18:21:55] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-01-23 18:22:02] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-01-23 18:22:02] Resource 'dgs' requests some acl rights. Use the command 'aclrequest list dgs'
+[2021-01-23 18:22:03] Resource 'guieditor' requests some acl rights. Use the command 'aclrequest list guieditor'
+[2021-01-23 18:22:04] Resources: 67 loaded, 0 failed
+[2021-01-23 18:22:04] Starting resources...
+[2021-01-23 18:22:04] WARNING: edf <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-23 18:22:04] WARNING: edf requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-23 18:22:04] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-01-23 18:22:04] Server minclientversion is now 1.5.7-9.19626
+[2021-01-23 18:22:04] INFO: WARNING: 'FREEROAM' RESOURCE NOT FOUND.  Editor will not function properly.  Please install the 'freeroam' resource immediately!
+[2021-01-23 18:22:04] ERROR: editor\freeroam.lua:6: attempt to index global 'editor_gui' (a nil value)
+[2021-01-23 18:22:04] Server started and is ready to accept connections!
+[2021-01-23 18:22:04] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-01-23 18:22:04] Type 'help' for a list of commands.
+[2021-01-23 18:22:05] CONNECT: LudicrousHead5 connected (IP: 127.0.0.1  Serial: 33483A3C56C3DA0861C28742BC379D62  Version: 1.5.8-9.20779.0)
+[2021-01-23 18:22:05] JOIN: LudicrousHead5 joined the game (IP: 127.0.0.1)
+[2021-01-23 18:23:59] QUIT: LudicrousHead5 left the game [Quit]
+[2021-01-23 18:24:00] Server stopped!
+[2021-01-23 18:24:00] Stopping resources..........
+[2021-01-23 18:24:00] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-01-23 19:00:05] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-01-23 19:00:08] Resource 'dgs' requests some acl rights. Use the command 'aclrequest list dgs'
+[2021-01-23 19:00:13] Resource 'guieditor' requests some acl rights. Use the command 'aclrequest list guieditor'
+[2021-01-23 19:00:22] Resources: 68 loaded, 0 failed
+[2021-01-23 19:00:22] Starting resources...
+[2021-01-23 19:00:22] WARNING: edf <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-23 19:00:22] WARNING: edf requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-23 19:00:22] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-01-23 19:00:22] Server minclientversion is now 1.5.7-9.19626
+[2021-01-23 19:00:25] INFO: WARNING: 'FREEROAM' RESOURCE NOT FOUND.  Editor will not function properly.  Please install the 'freeroam' resource immediately!
+[2021-01-23 19:00:25] ERROR: editor\freeroam.lua:6: attempt to index global 'editor_gui' (a nil value)
+[2021-01-23 19:00:25] Server started and is ready to accept connections!
+[2021-01-23 19:00:25] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-01-23 19:00:25] Type 'help' for a list of commands.
+[2021-01-23 19:00:25] CONNECT: LudicrousHead5 connected (IP: 127.0.0.1  Serial: 33483A3C56C3DA0861C28742BC379D62  Version: 1.5.8-9.20779.0)
+[2021-01-23 19:00:33] JOIN: LudicrousHead5 joined the game (IP: 127.0.0.1)
+[2021-01-23 19:04:25] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000073
+[2021-01-23 19:05:25] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000073
+[2021-01-23 19:06:25] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000073
+[2021-01-23 19:07:25] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000073
+[2021-01-23 19:40:29] QUIT: LudicrousHead5 left the game [Quit]
+[2021-01-23 19:40:30] Server stopped!
+[2021-01-23 19:40:30] Stopping resources..........
+[2021-01-23 19:40:30] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-01-23 19:44:15] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-01-23 19:44:16] Resource 'dgs' requests some acl rights. Use the command 'aclrequest list dgs'
+[2021-01-23 19:44:20] Resource 'guieditor' requests some acl rights. Use the command 'aclrequest list guieditor'
+[2021-01-23 19:44:24] Resources: 68 loaded, 0 failed
+[2021-01-23 19:44:24] Starting resources...
+[2021-01-23 19:44:24] WARNING: edf <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-23 19:44:24] WARNING: edf requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-23 19:44:24] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-01-23 19:44:24] Server minclientversion is now 1.5.7-9.19626
+[2021-01-23 19:44:25] INFO: WARNING: 'FREEROAM' RESOURCE NOT FOUND.  Editor will not function properly.  Please install the 'freeroam' resource immediately!
+[2021-01-23 19:44:25] ERROR: editor\freeroam.lua:6: attempt to index global 'editor_gui' (a nil value)
+[2021-01-23 19:44:25] Server started and is ready to accept connections!
+[2021-01-23 19:44:25] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-01-23 19:44:25] Type 'help' for a list of commands.
+[2021-01-23 19:44:26] CONNECT: LudicrousHead5 connected (IP: 127.0.0.1  Serial: 33483A3C56C3DA0861C28742BC379D62  Version: 1.5.8-9.20779.0)
+[2021-01-23 19:44:26] JOIN: LudicrousHead5 joined the game (IP: 127.0.0.1)
+[2021-01-23 19:45:14] QUIT: LudicrousHead5 left the game [Quit]
+[2021-01-23 19:45:15] Server stopped!
+[2021-01-23 19:45:15] Stopping resources..........
+[2021-01-23 19:45:15] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-01-23 20:08:21] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-01-23 20:08:23] Resource 'dgs' requests some acl rights. Use the command 'aclrequest list dgs'
+[2021-01-23 20:08:26] Resource 'guieditor' requests some acl rights. Use the command 'aclrequest list guieditor'
+[2021-01-23 20:08:30] Resources: 68 loaded, 0 failed
+[2021-01-23 20:08:30] Starting resources...
+[2021-01-23 20:08:31] WARNING: edf <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-23 20:08:31] WARNING: edf requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-23 20:08:31] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-01-23 20:08:31] Server minclientversion is now 1.5.7-9.19626
+[2021-01-23 20:08:31] INFO: WARNING: 'FREEROAM' RESOURCE NOT FOUND.  Editor will not function properly.  Please install the 'freeroam' resource immediately!
+[2021-01-23 20:08:31] ERROR: editor\freeroam.lua:6: attempt to index global 'editor_gui' (a nil value)
+[2021-01-23 20:08:31] Server started and is ready to accept connections!
+[2021-01-23 20:08:31] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-01-23 20:08:31] Type 'help' for a list of commands.
+[2021-01-23 20:08:32] CONNECT: LudicrousHead5 connected (IP: 127.0.0.1  Serial: 33483A3C56C3DA0861C28742BC379D62  Version: 1.5.8-9.20779.0)
+[2021-01-23 20:08:32] JOIN: LudicrousHead5 joined the game (IP: 127.0.0.1)
+[2021-01-23 20:09:33] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000BF
+[2021-01-23 20:10:32] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000BF
+[2021-01-23 20:11:32] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000BF
+[2021-01-23 20:12:32] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000C0
+[2021-01-23 20:13:32] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000C0
+[2021-01-23 20:14:32] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000C0
+[2021-01-23 20:15:32] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000C2
+[2021-01-23 20:16:33] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000C2
+[2021-01-23 20:17:33] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000C2
+[2021-01-23 20:18:33] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000C3
+[2021-01-23 20:19:33] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000C3
+[2021-01-23 20:20:33] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000C4
+[2021-01-23 20:21:33] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000C4
+[2021-01-23 20:22:33] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000C4
+[2021-01-23 20:23:33] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000C4
+[2021-01-23 20:24:33] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000C5
+[2021-01-23 20:25:33] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000C5
+[2021-01-23 20:30:33] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000C7
+[2021-01-23 20:34:33] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000CA
+[2021-01-23 20:35:33] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000CB
+[2021-01-23 20:36:33] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000CB
+[2021-01-23 20:37:33] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000CB
+[2021-01-23 20:47:33] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000CE
+[2021-01-23 20:48:33] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000CF
+[2021-01-23 21:02:33] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000D4
+[2021-01-23 21:03:33] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000D4
+[2021-01-23 21:04:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000D4
+[2021-01-23 21:05:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000D4
+[2021-01-23 21:06:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000D4
+[2021-01-23 21:07:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000D4
+[2021-01-23 21:08:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000D4
+[2021-01-23 21:09:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000D4
+[2021-01-23 21:10:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000D4
+[2021-01-23 21:11:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000D4
+[2021-01-23 21:12:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000D4
+[2021-01-23 21:20:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000D6
+[2021-01-23 21:21:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000D6
+[2021-01-23 21:22:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000D7
+[2021-01-23 21:23:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000D7
+[2021-01-23 21:24:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000D8
+[2021-01-23 21:25:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000D8
+[2021-01-23 21:26:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000D8
+[2021-01-23 21:27:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000D9
+[2021-01-23 21:28:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000D9
+[2021-01-23 21:32:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000DD
+[2021-01-23 21:33:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000DD
+[2021-01-23 21:36:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000DF
+[2021-01-23 21:38:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000E4
+[2021-01-23 21:40:34] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000E8
+[2021-01-23 22:44:00] QUIT: LudicrousHead5 left the game [Quit]
+[2021-01-23 22:44:02] Server stopped!
+[2021-01-23 22:44:02] Stopping resources..........
+[2021-01-23 22:44:03] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-01-28 01:10:19] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-01-28 01:10:20] Resource 'dgs' requests some acl rights. Use the command 'aclrequest list dgs'
+[2021-01-28 01:10:26] Resource 'guieditor' requests some acl rights. Use the command 'aclrequest list guieditor'
+[2021-01-28 01:10:31] Resources: 70 loaded, 0 failed
+[2021-01-28 01:10:32] Starting resources...
+[2021-01-28 01:10:32] WARNING: edf <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-28 01:10:32] WARNING: edf requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-28 01:10:32] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-01-28 01:10:32] Server minclientversion is now 1.5.7-9.19626
+[2021-01-28 01:10:32] INFO: WARNING: 'FREEROAM' RESOURCE NOT FOUND.  Editor will not function properly.  Please install the 'freeroam' resource immediately!
+[2021-01-28 01:10:32] ERROR: editor\freeroam.lua:6: attempt to index global 'editor_gui' (a nil value)
+[2021-01-28 01:10:32] Server started and is ready to accept connections!
+[2021-01-28 01:10:32] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-01-28 01:10:32] Type 'help' for a list of commands.
+[2021-01-28 01:10:33] CONNECT: LudicrousHead5 connected (IP: 127.0.0.1  Serial: 33483A3C56C3DA0861C28742BC379D62  Version: 1.5.8-9.20779.0)
+[2021-01-28 01:10:33] JOIN: LudicrousHead5 joined the game (IP: 127.0.0.1)
+[2021-01-28 01:11:21] QUIT: LudicrousHead5 left the game [Quit]
+[2021-01-28 01:11:21] Server stopped!
+[2021-01-28 01:11:22] Stopping resources..........
+[2021-01-28 01:11:22] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-01-28 23:41:34] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-01-28 23:41:37] Resource 'dgs' requests some acl rights. Use the command 'aclrequest list dgs'
+[2021-01-28 23:41:40] Resource 'guieditor' requests some acl rights. Use the command 'aclrequest list guieditor'
+[2021-01-28 23:41:46] Resources: 70 loaded, 0 failed
+[2021-01-28 23:41:47] Starting resources...
+[2021-01-28 23:41:47] WARNING: edf <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-28 23:41:47] WARNING: edf requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.19626 because of 'setPedArmor')
+[2021-01-28 23:41:47] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-01-28 23:41:47] Server minclientversion is now 1.5.7-9.19626
+[2021-01-28 23:41:47] INFO: WARNING: 'FREEROAM' RESOURCE NOT FOUND.  Editor will not function properly.  Please install the 'freeroam' resource immediately!
+[2021-01-28 23:41:47] ERROR: editor\freeroam.lua:6: attempt to index global 'editor_gui' (a nil value)
+[2021-01-28 23:41:47] Server started and is ready to accept connections!
+[2021-01-28 23:41:47] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-01-28 23:41:47] Type 'help' for a list of commands.
+[2021-01-28 23:41:49] CONNECT: LudicrousHead5 connected (IP: 127.0.0.1  Serial: 33483A3C56C3DA0861C28742BC379D62  Version: 1.5.8-9.20779.0)
+[2021-01-28 23:41:51] JOIN: LudicrousHead5 joined the game (IP: 127.0.0.1)
+[2021-01-28 23:42:49] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000CB
+[2021-01-28 23:43:49] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 000000CB
+[2021-01-28 23:43:53] QUIT: LudicrousHead5 left the game [Quit]
+[2021-01-28 23:43:54] Server stopped!
+[2021-01-28 23:43:54] Stopping resources..........
+[2021-01-28 23:43:54] Closing SQLite3 database

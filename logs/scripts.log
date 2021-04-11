@@ -1,0 +1,712 @@
+[2021-01-15 00:33:49] ERROR: systemHouse\server\s_systemHouse.lua:121: attempt to compare number with boolean
+[2021-01-15 00:47:52] ERROR: systemHouse\server\s_systemHouse.lua:121: attempt to compare number with boolean
+[2021-01-15 00:47:58] ERROR: systemHouse\server\s_systemHouse.lua:121: attempt to compare number with boolean
+[2021-01-15 00:48:00] ERROR: systemHouse\server\s_systemHouse.lua:121: attempt to compare number with boolean
+[2021-01-15 00:48:06] ERROR: systemHouse\server\s_systemHouse.lua:121: attempt to compare number with boolean
+[2021-01-15 00:48:28] ERROR: systemHouse\server\s_systemHouse.lua:121: attempt to compare number with boolean
+[2021-01-15 01:32:40] ERROR: systemHouse\server\s_systemHouse.lua:213: attempt to index local 'house' (a number value)
+[2021-01-15 01:32:40] ERROR: Core\LoginForm\s_LoginForm.lua:49: call: failed to call 'systemHouse:spawnInHome'
+[2021-01-15 20:51:59] WARNING: Core\weather\s_weather.lua:19: Bad argument @ 'outputChatBox' [Expected string at argument 1, got boolean]
+[2021-01-15 20:56:01] WARNING: Core\weather\s_weather.lua:2: Bad argument @ 'addEventHandler' [Expected element at argument 2, got resource-data]
+[2021-01-15 20:58:32] ERROR: Core\weather\s_weather.lua:5: attempt to call global 'setWorldSoundEnabled' (a nil value)
+[2021-01-23 19:49:49] WARNING: movedObjects\s_movedObjects.lua:14: Bad argument @ 'getPedOccupiedVehicle' [Expected ped at argument 1, got vehicle]
+[2021-01-23 19:49:57] WARNING: movedObjects\s_movedObjects.lua:14: Bad argument @ 'getPedOccupiedVehicle' [Expected ped at argument 1, got vehicle]
+[2021-01-23 19:50:07] WARNING: movedObjects\s_movedObjects.lua:14: Bad argument @ 'getPedOccupiedVehicle' [Expected ped at argument 1, got vehicle]
+[2021-01-23 22:43:39] ERROR: Loading script failed: movedObjects\g_movedObjects.lua:4: '}' expected (to close '{' at line 1) near '{'
+[2021-01-23 22:43:39] ERROR: movedObjects\s_movedObjects.lua:1: bad argument #1 to 'pairs' (table expected, got nil)
+[2021-01-23 22:45:25] ERROR: Loading script failed: movedObjects\g_movedObjects.lua:4: '}' expected (to close '{' at line 1) near '{'
+[2021-01-23 22:45:25] ERROR: movedObjects\s_movedObjects.lua:1: bad argument #1 to 'pairs' (table expected, got nil)
+[2021-01-23 23:15:23] WARNING: movedObjects\s_movedObjects.lua:29: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]
+[2021-01-23 23:15:29] WARNING: movedObjects\s_movedObjects.lua:29: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]  [DUP x4]
+[2021-01-23 23:15:30] WARNING: movedObjects\s_movedObjects.lua:29: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]
+[2021-01-23 23:15:36] WARNING: movedObjects\s_movedObjects.lua:29: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]
+[2021-01-23 23:15:39] WARNING: movedObjects\s_movedObjects.lua:29: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]
+[2021-01-23 23:15:45] WARNING: movedObjects\s_movedObjects.lua:29: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]  [DUP x2]
+[2021-01-23 23:15:46] WARNING: movedObjects\s_movedObjects.lua:29: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]
+[2021-01-23 23:15:52] WARNING: movedObjects\s_movedObjects.lua:29: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]  [DUP x17]
+[2021-01-23 23:15:56] WARNING: movedObjects\s_movedObjects.lua:29: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]
+[2021-01-23 23:16:02] WARNING: movedObjects\s_movedObjects.lua:29: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]  [DUP x10]
+[2021-01-23 23:16:02] WARNING: movedObjects\s_movedObjects.lua:29: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]
+[2021-01-23 23:16:08] WARNING: movedObjects\s_movedObjects.lua:29: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]  [DUP x11]
+[2021-01-23 23:16:08] WARNING: movedObjects\s_movedObjects.lua:29: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]
+[2021-01-23 23:16:14] WARNING: movedObjects\s_movedObjects.lua:29: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]  [DUP x52]
+[2021-01-23 23:16:34] WARNING: movedObjects\s_movedObjects.lua:29: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]
+[2021-01-23 23:16:40] WARNING: movedObjects\s_movedObjects.lua:29: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]  [DUP x59]
+[2021-01-23 23:16:40] WARNING: movedObjects\s_movedObjects.lua:29: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]
+[2021-01-23 23:16:46] WARNING: movedObjects\s_movedObjects.lua:29: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]  [DUP x41]
+[2021-01-23 23:48:29] WARNING: movedObjects\s_movedObjects.lua:9: Bad argument @ 'createObject' [Expected number at argument 1, got nil]
+[2021-01-23 23:48:29] WARNING: movedObjects\s_movedObjects.lua:10: Bad argument @ 'createMarker' [Expected vector3 at argument 1, got nil]
+[2021-01-23 23:48:29] ERROR: movedObjects\s_movedObjects.lua:11: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2021-01-24 02:07:23] ERROR: Loading script failed: movedObjects\s_movedObjects.lua:64: '=' expected near 'local'
+[2021-01-24 02:29:14] ERROR: Loading script failed: movedObjects\s_movedObjects.lua:111: ')' expected (to close '(' at line 110) near 'end'
+[2021-01-24 02:47:44] ERROR: Loading script failed: movedObjects\s_movedObjects.lua:92: unexpected symbol near ')'
+[2021-01-24 02:53:38] WARNING: movedObjects\s_movedObjects.lua:120: Bad argument @ 'addEventHandler' [Expected function at argument 3, got nil]
+[2021-01-24 02:54:38] WARNING: movedObjects\s_movedObjects.lua:108: Bad argument @ 'removeEventHandler' [Expected function at argument 3, got nil]
+[2021-01-24 02:54:43] WARNING: movedObjects\s_movedObjects.lua:120: Bad usage @ 'addEventHandler' ['onMarkerLeave' with this function is already handled]
+[2021-01-24 02:54:49] WARNING: movedObjects\s_movedObjects.lua:108: Bad argument @ 'removeEventHandler' [Expected function at argument 3, got nil]
+[2021-01-24 02:54:49] WARNING: movedObjects\s_movedObjects.lua:120: Bad usage @ 'addEventHandler' ['onMarkerLeave' with this function is already handled]
+[2021-01-24 02:54:50] WARNING: movedObjects\s_movedObjects.lua:108: Bad argument @ 'removeEventHandler' [Expected function at argument 3, got nil]
+[2021-01-24 02:54:52] WARNING: movedObjects\s_movedObjects.lua:120: Bad usage @ 'addEventHandler' ['onMarkerLeave' with this function is already handled]
+[2021-01-24 02:55:00] WARNING: movedObjects\s_movedObjects.lua:108: Bad argument @ 'removeEventHandler' [Expected function at argument 3, got nil]
+[2021-01-25 00:37:29] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]
+[2021-01-25 00:37:35] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]  [DUP x7]
+[2021-01-25 00:37:35] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]
+[2021-01-25 00:37:41] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]  [DUP x11]
+[2021-01-25 00:37:41] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]
+[2021-01-25 00:37:47] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]  [DUP x11]
+[2021-01-25 00:37:48] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]
+[2021-01-25 00:37:54] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]  [DUP x11]
+[2021-01-25 00:37:54] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]
+[2021-01-25 00:38:00] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]  [DUP x11]
+[2021-01-25 00:38:00] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]
+[2021-01-25 00:38:06] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]  [DUP x11]
+[2021-01-25 00:38:06] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]
+[2021-01-25 00:38:12] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]  [DUP x11]
+[2021-01-25 00:38:12] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]
+[2021-01-25 00:38:18] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]  [DUP x11]
+[2021-01-25 00:38:18] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]
+[2021-01-25 00:38:24] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]  [DUP x11]
+[2021-01-25 00:38:24] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]
+[2021-01-25 00:38:30] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]  [DUP x11]
+[2021-01-25 00:38:30] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]
+[2021-01-25 00:38:36] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]  [DUP x11]
+[2021-01-25 00:38:36] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]
+[2021-01-25 00:38:42] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]  [DUP x9]
+[2021-01-25 00:38:42] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]
+[2021-01-25 00:38:48] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]  [DUP x11]
+[2021-01-25 00:38:48] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]
+[2021-01-25 00:38:54] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]  [DUP x10]
+[2021-01-25 00:38:54] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]
+[2021-01-25 00:39:00] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]  [DUP x10]
+[2021-01-25 00:39:00] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]
+[2021-01-25 00:39:06] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]  [DUP x11]
+[2021-01-25 00:39:06] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]
+[2021-01-25 00:39:12] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]  [DUP x11]
+[2021-01-25 00:39:12] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]
+[2021-01-25 00:39:18] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]  [DUP x11]
+[2021-01-25 00:39:18] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]
+[2021-01-25 00:39:24] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]  [DUP x11]
+[2021-01-25 00:39:24] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]
+[2021-01-25 00:39:30] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]  [DUP x11]
+[2021-01-25 00:39:30] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]
+[2021-01-25 00:39:36] WARNING: movedObjects\s_movedObjects.lua:19: Bad argument @ 'moveObject' [Expected vector3 at argument 3, got nil]  [DUP x9]
+[2021-01-25 01:04:36] ERROR: movedObjects\s_movedObjects.lua:29: attempt to index global 'v' (a nil value)
+[2021-01-25 01:04:42] ERROR: movedObjects\s_movedObjects.lua:29: attempt to index global 'v' (a nil value)  [DUP x3]
+[2021-01-25 01:04:46] ERROR: movedObjects\s_movedObjects.lua:29: attempt to index global 'v' (a nil value)
+[2021-01-25 01:04:51] ERROR: movedObjects\s_movedObjects.lua:29: attempt to index global 'v' (a nil value)
+[2021-01-25 01:06:29] WARNING: movedObjects\s_movedObjects.lua:28: Bad argument @ 'getElementPosition' [Expected element at argument 1, got boolean]
+[2021-01-25 01:06:29] WARNING: movedObjects\s_movedObjects.lua:31: Bad argument @ 'moveObject' [Expected element at argument 1, got boolean]
+[2021-01-25 01:06:30] WARNING: movedObjects\s_movedObjects.lua:28: Bad argument @ 'getElementPosition' [Expected element at argument 1, got boolean]
+[2021-01-25 01:06:30] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:06:36] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:06:36] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:06:42] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:06:42] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:06:48] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:06:48] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:06:54] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:06:55] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:07:01] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:07:01] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:07:07] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:07:07] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:07:13] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:07:13] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:07:19] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:08:25] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:08:31] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:08:31] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:08:37] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:08:37] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:08:43] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:08:44] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:08:50] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:08:50] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:08:56] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:08:56] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:09:02] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:09:02] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:09:08] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:09:08] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:09:15] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:09:16] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:09:22] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:09:22] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:09:28] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:09:28] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:09:34] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:09:34] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:09:40] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x3]
+[2021-01-25 01:11:10] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:11:16] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:11:16] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:11:22] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:11:22] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:11:28] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:11:28] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:11:34] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:11:34] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:11:40] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:11:46] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:11:52] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:11:52] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:11:58] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:11:58] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:12:04] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:12:04] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:12:10] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:12:10] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:12:16] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:12:16] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:12:22] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:12:22] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:12:28] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:12:28] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:12:34] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:12:34] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:12:40] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:12:41] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:12:47] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:12:47] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:12:53] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:12:53] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:12:59] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:12:59] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:13:05] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:13:05] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:13:11] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:13:11] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:13:17] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:13:17] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:13:23] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:13:23] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:13:29] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:13:29] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:13:35] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:13:35] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:13:41] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x4]
+[2021-01-25 01:13:41] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:13:47] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:13:47] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:13:53] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:13:53] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:13:59] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:13:59] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:14:05] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:14:05] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:14:11] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:14:11] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:14:17] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:14:17] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:14:23] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:14:23] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:14:29] ERROR: movedObjects\s_movedObjects.lua:37: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:14:34] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value
+[2021-01-25 01:14:40] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value  [DUP x5]
+[2021-01-25 01:14:40] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value
+[2021-01-25 01:14:46] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value  [DUP x5]
+[2021-01-25 01:14:46] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value
+[2021-01-25 01:14:52] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value  [DUP x5]
+[2021-01-25 01:14:52] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value
+[2021-01-25 01:14:58] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value  [DUP x5]
+[2021-01-25 01:14:58] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value
+[2021-01-25 01:15:04] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value  [DUP x5]
+[2021-01-25 01:15:05] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value
+[2021-01-25 01:15:11] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value  [DUP x5]
+[2021-01-25 01:15:11] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value
+[2021-01-25 01:15:17] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value  [DUP x5]
+[2021-01-25 01:15:17] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value
+[2021-01-25 01:15:23] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value  [DUP x5]
+[2021-01-25 01:15:23] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value
+[2021-01-25 01:15:29] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value  [DUP x5]
+[2021-01-25 01:15:29] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value
+[2021-01-25 01:15:35] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value  [DUP x5]
+[2021-01-25 01:15:35] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value
+[2021-01-25 01:15:41] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value  [DUP x5]
+[2021-01-25 01:15:41] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value
+[2021-01-25 01:15:47] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value  [DUP x5]
+[2021-01-25 01:15:47] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value
+[2021-01-25 01:15:53] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value  [DUP x5]
+[2021-01-25 01:15:53] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value
+[2021-01-25 01:15:59] ERROR: movedObjects\s_movedObjects.lua:36: attempt to get length of a boolean value  [DUP x4]
+[2021-01-25 01:22:41] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:22:47] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:22:47] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:22:53] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:22:53] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:22:58] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:22:59] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:23:05] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:23:05] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:23:11] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:23:11] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:23:17] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:23:17] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:23:23] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:23:23] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:23:29] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x4]
+[2021-01-25 01:23:29] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:23:35] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:23:35] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:23:41] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of upvalue 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:23:41] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:23:47] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of upvalue 'playersInMarker' (a boolean value)
+[2021-01-25 01:23:48] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:23:54] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:23:54] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:24:00] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:24:00] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:24:06] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:24:06] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:24:12] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:24:12] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:24:18] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:24:18] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:24:24] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:24:24] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:24:30] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:24:30] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:24:36] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:24:37] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:24:43] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:24:43] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:24:49] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:24:49] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:24:55] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:24:58] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:25:04] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:25:04] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:25:10] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:25:10] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:25:16] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:25:16] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:25:22] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:25:22] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:25:28] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:25:28] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:25:34] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:25:34] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:25:40] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:25:40] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:25:46] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x4]
+[2021-01-25 01:25:46] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:25:52] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:25:52] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:25:58] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:25:58] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:26:04] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:26:04] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:26:10] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:26:10] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:26:16] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:26:16] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:26:22] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:26:22] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:26:28] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:26:28] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:26:34] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:26:34] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:26:40] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:26:40] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:26:46] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:26:46] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:26:52] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x4]
+[2021-01-25 01:26:52] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:26:58] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:26:58] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:27:04] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:27:04] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:27:10] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:27:10] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:27:16] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:27:16] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:27:22] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:27:22] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:27:28] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:27:28] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:27:34] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:27:34] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:27:40] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:27:40] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:27:46] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:27:46] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:27:52] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:27:52] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:27:58] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:27:59] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:28:05] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:28:05] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:28:11] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:28:11] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:28:17] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x3]
+[2021-01-25 01:31:36] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:31:42] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:31:42] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:31:48] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:31:48] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:31:54] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:31:54] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:32:00] ERROR: movedObjects\s_movedObjects.lua:42: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:33:53] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:33:59] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:33:59] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:34:05] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x4]
+[2021-01-25 01:34:05] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:34:11] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:34:11] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:34:17] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x4]
+[2021-01-25 01:34:21] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:34:27] ERROR: movedObjects\s_movedObjects.lua:43: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x4]
+[2021-01-25 01:36:48] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:36:54] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:36:54] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:37:00] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:37:00] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:37:06] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:37:06] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:37:12] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:37:12] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:37:18] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:37:18] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:37:24] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:37:24] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:37:30] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:37:30] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:37:36] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x4]
+[2021-01-25 01:37:36] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:37:42] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:37:42] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:37:48] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:37:48] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:37:54] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x5]
+[2021-01-25 01:37:54] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)
+[2021-01-25 01:38:00] ERROR: movedObjects\s_movedObjects.lua:44: attempt to get length of global 'playersInMarker' (a boolean value)  [DUP x4]
+[2021-01-25 01:54:55] ERROR: movedObjects\s_movedObjects.lua:42: attempt to call global 'startHitTimer' (a nil value)
+[2021-01-25 01:55:01] ERROR: movedObjects\s_movedObjects.lua:42: attempt to call global 'startHitTimer' (a nil value)
+[2021-01-25 01:55:48] WARNING: movedObjects\s_movedObjects.lua:42: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]
+[2021-01-25 01:55:54] WARNING: movedObjects\s_movedObjects.lua:42: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]
+[2021-01-25 01:56:03] WARNING: movedObjects\s_movedObjects.lua:42: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]
+[2021-01-25 01:56:09] WARNING: movedObjects\s_movedObjects.lua:42: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]
+[2021-01-25 01:59:14] ERROR: Loading script failed: movedObjects\s_movedObjects.lua:36: '(' expected near 'startLeaveTimer'
+[2021-01-25 01:59:26] ERROR: Loading script failed: movedObjects\s_movedObjects.lua:36: '(' expected near 'startLeaveTimer'
+[2021-01-25 02:20:56] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:21:15] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:21:17] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:21:23] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x3]
+[2021-01-25 02:21:23] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:21:29] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x3]
+[2021-01-25 02:21:29] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:21:35] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:22:28] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:22:34] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:22:36] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:22:42] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:22:43] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:22:49] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:22:50] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:22:56] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:24:09] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:24:51] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:25:21] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:26:45] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:26:47] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:27:36] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:27:38] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:27:44] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:27:44] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:27:50] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:27:51] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:27:57] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:27:57] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:28:03] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:28:04] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:28:10] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:28:10] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:28:16] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:28:17] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:28:23] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:28:23] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:28:29] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:28:29] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:28:35] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:28:36] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:28:42] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:28:43] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:28:49] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:28:49] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:28:55] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:31:59] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:32:05] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:32:07] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:32:13] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:32:14] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:32:20] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:32:21] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:32:27] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:32:28] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:32:34] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:32:35] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:32:41] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:32:42] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:32:48] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:32:50] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:32:56] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:32:57] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:33:03] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:33:05] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:33:11] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:33:11] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:35:12] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:35:15] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:35:21] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:35:21] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:35:28] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:35:31] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:35:37] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:35:37] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:35:43] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:35:45] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:35:51] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:35:53] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:35:59] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:35:59] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:36:05] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:36:05] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:36:11] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:36:12] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:36:18] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:36:19] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:36:25] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:36:26] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:36:32] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:36:32] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:36:38] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:36:38] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:36:44] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:36:44] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:36:50] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:36:50] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:36:56] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:36:56] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:37:02] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:37:04] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:37:10] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:37:11] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:37:17] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:37:19] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:37:25] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:37:25] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:37:31] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:37:32] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:37:38] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:37:39] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:37:45] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:37:45] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:37:51] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:37:52] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:37:58] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:37:58] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:38:04] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:38:05] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:38:11] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:38:12] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:38:18] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:38:19] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:38:25] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:38:25] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:38:31] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:38:33] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:38:39] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:38:41] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:38:47] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:38:49] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:38:55] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:38:56] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:39:02] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:39:03] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:39:09] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:39:11] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:39:17] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:39:18] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:39:24] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:39:24] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:39:30] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:39:32] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:39:38] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:39:40] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:39:46] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:39:48] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:39:54] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:39:54] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:40:00] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:40:02] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:40:08] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:40:08] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:40:14] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]  [DUP x2]
+[2021-01-25 02:40:14] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:40:20] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:40:20] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:40:26] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:40:26] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:40:32] WARNING: movedObjects\s_movedObjects.lua:48: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-25 02:47:15] WARNING: movedObjects\s_movedObjects.lua:37: Bad argument @ 'bindKey' [Expected function at argument 4, got nil]
+[2021-01-25 02:48:01] WARNING: movedObjects\s_movedObjects.lua:41: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]
+[2021-01-25 02:48:07] WARNING: movedObjects\s_movedObjects.lua:41: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]  [DUP x3]
+[2021-01-25 02:48:13] WARNING: movedObjects\s_movedObjects.lua:41: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]
+[2021-01-25 02:48:19] WARNING: movedObjects\s_movedObjects.lua:41: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]  [DUP x3]
+[2021-01-25 02:48:20] WARNING: movedObjects\s_movedObjects.lua:41: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]
+[2021-01-25 02:48:26] WARNING: movedObjects\s_movedObjects.lua:41: Bad argument @ 'setTimer' [Expected function at argument 1, got nil]  [DUP x4]
+[2021-01-26 23:01:13] WARNING: movedObjects\s_movedObjects.lua:30: Bad argument @ 'getElementData' [Expected element at argument 1, got nil]
+[2021-01-26 23:01:13] WARNING: movedObjects\s_movedObjects.lua:64: Bad argument @ 'getElementData' [Expected element at argument 1, got nil]
+[2021-01-26 23:02:32] WARNING: movedObjects\s_movedObjects.lua:30: Bad argument @ 'getElementData' [Expected element at argument 1, got nil]
+[2021-01-26 23:02:32] WARNING: movedObjects\s_movedObjects.lua:64: Bad argument @ 'getElementData' [Expected element at argument 1, got nil]
+[2021-01-26 23:17:00] WARNING: movedObjects\s_movedObjects.lua:89: Bad argument @ 'resetTimer' [Expected lua-timer at argument 1]
+[2021-01-26 23:19:43] ERROR: Loading script failed: movedObjects\s_movedObjects.lua:89: '=' expected near 'timerTemp'
+[2021-01-26 23:21:30] WARNING: movedObjects\s_movedObjects.lua:88: Bad argument @ 'resetTimer' [Expected lua-timer at argument 1]
+[2021-01-26 23:22:03] WARNING: movedObjects\s_movedObjects.lua:88: Bad argument @ 'killTimer' [Expected lua-timer at argument 1]
+[2021-01-26 23:22:10] WARNING: movedObjects\s_movedObjects.lua:87: Bad argument @ 'resetTimer' [Expected lua-timer at argument 1]
+[2021-01-26 23:58:29] ERROR: Loading script failed: base_NIK\s_base_NIK.lua:13: 'then' expected near 'return'
+[2021-01-26 23:59:14] ERROR: base_NIK\s_base_NIK.lua:5: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2021-01-27 00:04:17] ERROR: base_NIK\s_base_NIK.lua:5: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2021-01-27 00:06:23] WARNING: base_NIK\s_base_NIK.lua:16: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2021-01-27 00:06:23] ERROR: base_NIK\s_base_NIK.lua:16: bad argument #1 to 'unpack' (table expected, got boolean)
+[2021-01-27 00:10:47] WARNING: base_NIK\s_base_NIK.lua:16: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2021-01-27 00:10:47] ERROR: base_NIK\s_base_NIK.lua:16: bad argument #1 to 'unpack' (table expected, got boolean)
+[2021-01-27 00:10:52] WARNING: base_NIK\s_base_NIK.lua:16: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2021-01-27 00:10:58] ERROR: base_NIK\s_base_NIK.lua:16: bad argument #1 to 'unpack' (table expected, got boolean)
+[2021-01-27 00:10:58] WARNING: base_NIK\s_base_NIK.lua:16: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2021-01-27 00:10:58] ERROR: base_NIK\s_base_NIK.lua:16: bad argument #1 to 'unpack' (table expected, got boolean)
+[2021-01-27 00:11:11] WARNING: base_NIK\s_base_NIK.lua:16: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2021-01-27 00:11:11] ERROR: base_NIK\s_base_NIK.lua:16: bad argument #1 to 'unpack' (table expected, got boolean)
+[2021-01-27 00:11:43] WARNING: base_NIK\s_base_NIK.lua:16: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2021-01-27 00:11:43] ERROR: base_NIK\s_base_NIK.lua:16: bad argument #1 to 'unpack' (table expected, got boolean)
+[2021-01-27 00:13:58] ERROR: Loading script failed: base_NIK\s_base_NIK.lua:3: ')' expected near '1'
+[2021-01-27 00:20:31] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:20:37] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x10]
+[2021-01-27 00:20:37] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:20:43] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x10]
+[2021-01-27 00:20:43] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:20:49] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x11]
+[2021-01-27 00:20:49] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:20:55] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x11]
+[2021-01-27 00:20:55] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:21:01] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x11]
+[2021-01-27 00:21:01] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:21:07] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x10]
+[2021-01-27 00:21:07] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:21:13] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x11]
+[2021-01-27 00:21:13] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:21:19] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x11]
+[2021-01-27 00:21:19] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:21:25] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x11]
+[2021-01-27 00:21:25] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:21:31] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x10]
+[2021-01-27 00:21:31] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:21:36] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x11]
+[2021-01-27 00:21:37] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:21:43] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x10]
+[2021-01-27 00:21:43] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:21:49] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x11]
+[2021-01-27 00:21:49] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:21:55] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x10]
+[2021-01-27 00:21:55] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:22:01] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x10]
+[2021-01-27 00:22:01] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:22:07] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x11]
+[2021-01-27 00:22:07] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:22:13] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x10]
+[2021-01-27 00:22:13] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:22:19] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x11]
+[2021-01-27 00:22:19] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:22:25] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x10]
+[2021-01-27 00:22:25] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:22:31] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x11]
+[2021-01-27 00:22:31] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:22:37] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x10]
+[2021-01-27 00:22:37] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:22:43] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x10]
+[2021-01-27 00:22:43] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:22:49] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x11]
+[2021-01-27 00:22:49] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:22:55] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x10]
+[2021-01-27 00:22:55] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:23:01] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x11]
+[2021-01-27 00:23:01] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:23:07] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x10]
+[2021-01-27 00:23:07] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:23:13] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x11]
+[2021-01-27 00:23:13] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:23:19] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x10]
+[2021-01-27 00:23:19] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:23:25] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x11]
+[2021-01-27 00:23:25] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:23:31] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x10]
+[2021-01-27 00:23:31] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:23:37] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x11]
+[2021-01-27 00:23:37] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:23:43] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x10]
+[2021-01-27 00:23:43] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:23:49] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x11]
+[2021-01-27 00:23:49] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:23:55] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x10]
+[2021-01-27 00:23:55] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:24:01] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x11]
+[2021-01-27 00:24:01] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:24:07] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x10]
+[2021-01-27 00:24:07] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:24:13] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x11]
+[2021-01-27 00:24:13] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:24:19] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x10]
+[2021-01-27 00:24:19] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:24:25] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x11]
+[2021-01-27 00:24:25] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:24:31] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x10]
+[2021-01-27 00:24:31] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]
+[2021-01-27 00:24:33] WARNING: movedObjects\s_movedObjects.lua:76: Bad argument @ 'bindKey' [Expected player at argument 1]  [DUP x3]
+[2021-01-28 00:40:16] WARNING: base_NIK\s_base_NIK.lua:16: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2021-01-28 00:40:16] ERROR: base_NIK\s_base_NIK.lua:16: bad argument #1 to 'unpack' (table expected, got boolean)
+[2021-01-28 00:40:22] WARNING: base_NIK\s_base_NIK.lua:16: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2021-01-28 00:40:22] ERROR: base_NIK\s_base_NIK.lua:16: bad argument #1 to 'unpack' (table expected, got boolean)
+[2021-01-28 00:40:27] ERROR: Anomaly\s_Anomaly.lua:4: attempt to call global 'createEffect' (a nil value)
+[2021-01-28 00:42:11] ERROR: Anomaly\s_Anomaly.lua:5: attempt to call global 'createEffect' (a nil value)
+[2021-01-28 22:39:11] WARNING: base_NIK\s_base_NIK.lua:16: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2021-01-28 22:39:11] ERROR: base_NIK\s_base_NIK.lua:16: bad argument #1 to 'unpack' (table expected, got boolean)
+[2021-01-28 22:39:17] WARNING: base_NIK\s_base_NIK.lua:16: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2021-01-28 22:39:17] ERROR: base_NIK\s_base_NIK.lua:16: bad argument #1 to 'unpack' (table expected, got boolean)
+[2021-01-28 22:45:03] WARNING: base_NIK\s_base_NIK.lua:19: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2021-01-28 22:45:03] ERROR: base_NIK\s_base_NIK.lua:19: bad argument #1 to 'unpack' (table expected, got boolean)
+[2021-01-28 22:45:44] WARNING: base_NIK\s_base_NIK.lua:17: Bad argument @ 'outputChatBox' [Expected string at argument 1, got boolean]
+[2021-01-28 22:45:50] WARNING: base_NIK\s_base_NIK.lua:19: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2021-01-28 22:45:50] ERROR: base_NIK\s_base_NIK.lua:19: bad argument #1 to 'unpack' (table expected, got boolean)
+[2021-01-28 22:46:57] WARNING: base_NIK\s_base_NIK.lua:17: Bad argument @ 'outputChatBox' [Expected string at argument 1, got boolean]
+[2021-01-28 22:46:57] WARNING: base_NIK\s_base_NIK.lua:19: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2021-01-28 22:46:57] ERROR: base_NIK\s_base_NIK.lua:19: bad argument #1 to 'unpack' (table expected, got boolean)
+[2021-01-28 22:47:03] WARNING: base_NIK\s_base_NIK.lua:17: Bad argument @ 'outputChatBox' [Expected string at argument 1, got boolean]
+[2021-01-28 22:47:03] WARNING: base_NIK\s_base_NIK.lua:19: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2021-01-28 22:47:03] ERROR: base_NIK\s_base_NIK.lua:19: bad argument #1 to 'unpack' (table expected, got boolean)
+[2021-01-28 22:47:07] WARNING: base_NIK\s_base_NIK.lua:17: Bad argument @ 'outputChatBox' [Expected string at argument 1, got boolean]
+[2021-01-28 22:47:07] WARNING: base_NIK\s_base_NIK.lua:19: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2021-01-28 22:47:07] ERROR: base_NIK\s_base_NIK.lua:19: bad argument #1 to 'unpack' (table expected, got boolean)
+[2021-01-28 22:49:47] WARNING: base_NIK\s_base_NIK.lua:15: Bad argument @ 'outputChatBox' [Expected string at argument 1, got boolean]
+[2021-01-29 23:28:27] WARNING: base_NIK\s_base_NIK.lua:15: Bad argument @ 'isPedInVehicle' [Expected ped at argument 1, got pickup]
+[2021-01-29 23:28:33] WARNING: base_NIK\s_base_NIK.lua:15: Bad argument @ 'isPedInVehicle' [Expected ped at argument 1, got pickup]
+[2021-01-29 23:29:14] WARNING: base_NIK\s_base_NIK.lua:15: Bad argument @ 'isPedInVehicle' [Expected ped at argument 1, got pickup]
+[2021-01-29 23:29:20] WARNING: base_NIK\s_base_NIK.lua:15: Bad argument @ 'isPedInVehicle' [Expected ped at argument 1, got pickup]
+[2021-01-29 23:31:18] WARNING: base_NIK\s_base_NIK.lua:15: Bad argument @ 'isPedInVehicle' [Expected ped at argument 1, got pickup]
+[2021-01-29 23:31:24] WARNING: base_NIK\s_base_NIK.lua:15: Bad argument @ 'isPedInVehicle' [Expected ped at argument 1, got pickup]
+[2021-01-30 00:13:57] WARNING: Anomaly\s_Anomaly.lua:26: Bad argument @ 'setElementVisibleTo' [Expected element at argument 1, got none]
+[2021-01-30 00:22:33] WARNING: Anomaly\s_Anomaly.lua:11: Bad argument @ 'outputChatBox' [Expected string at argument 1, got boolean]
+[2021-01-30 00:22:39] WARNING: Anomaly\s_Anomaly.lua:11: Bad argument @ 'outputChatBox' [Expected string at argument 1, got boolean]  [DUP x3]
+[2021-01-30 00:22:41] WARNING: Anomaly\s_Anomaly.lua:11: Bad argument @ 'outputChatBox' [Expected string at argument 1, got boolean]
+[2021-01-30 00:22:47] WARNING: Anomaly\s_Anomaly.lua:11: Bad argument @ 'outputChatBox' [Expected string at argument 1, got boolean]
+[2021-01-31 21:24:51] WARNING: Anomaly\s_Anomaly.lua:30: Bad argument @ 'triggerClientEvent' [Expected string at argument 1, got nil]
+[2021-01-31 21:24:58] WARNING: Anomaly\s_Anomaly.lua:30: Bad argument @ 'triggerClientEvent' [Expected string at argument 1, got nil]
+[2021-01-31 22:10:59] ERROR: Anomaly\s_Anomaly.lua:24: Bad argument @ 'setElementData' [Expected element at argument 1, got nil]
+[2021-01-31 22:11:05] ERROR: Anomaly\s_Anomaly.lua:24: Bad argument @ 'setElementData' [Expected element at argument 1, got nil]
+[2021-01-31 22:11:05] ERROR: Anomaly\s_Anomaly.lua:24: Bad argument @ 'setElementData' [Expected element at argument 1, got nil]
+[2021-01-31 22:11:58] ERROR: Anomaly\s_Anomaly.lua:30: Bad argument @ 'setElementData' [Expected element at argument 1, got nil]
+[2021-01-31 22:12:04] ERROR: Anomaly\s_Anomaly.lua:30: Bad argument @ 'setElementData' [Expected element at argument 1, got nil]  [DUP x2]
+[2021-01-31 22:12:04] ERROR: Anomaly\s_Anomaly.lua:30: Bad argument @ 'setElementData' [Expected element at argument 1, got nil]
+[2021-01-31 22:12:22] ERROR: Anomaly\s_Anomaly.lua:30: Bad argument @ 'setElementData' [Expected element at argument 1, got nil]
+[2021-01-31 22:12:24] ERROR: Anomaly\s_Anomaly.lua:30: Bad argument @ 'setElementData' [Expected element at argument 1, got nil]
+[2021-01-31 22:12:30] ERROR: Anomaly\s_Anomaly.lua:30: Bad argument @ 'setElementData' [Expected element at argument 1, got nil]

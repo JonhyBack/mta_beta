@@ -1,0 +1,1 @@
+Teams.banditTeam = createTeam("Бандиты", 0, 40, 171)

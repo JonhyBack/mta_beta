@@ -1,0 +1,18 @@
+<meta>
+  <info author="VSCode MTA:SA Lua" type="script" name="systemHouse"/>
+ 
+ 
+  <script src="win.lua" type="client" />
+  <script src="client\c_drawViewHouses.lua" type="client" />
+  <script src="client/c_systemHouse.lua" type="client"/>
+  <script src="client/c_panelBuy.lua" type="client"/>
+  <script src="client/c_panelHouse.lua" type="client"/>
+
+  <script src="server/s_systemHouse.lua" type="server"/>
+
+  <export function="spawnInHome" type="server"/>
+
+  <min_mta_version server="1.5.2-9.07903" client="1.5.2-9.07903" />
+  
+  <oop>true</oop>
+</meta>

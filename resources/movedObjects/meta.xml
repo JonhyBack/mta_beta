@@ -1,0 +1,6 @@
+<meta>
+	<info author="VSCode MTA:SA Lua" type="script" name="movedObjects" />
+	<script src="g_movedObjects.lua" type="shared" />
+	<script src="c_movedObjects.lua" type="client" cache="false" />
+	<script src="s_movedObjects.lua" type="server" />
+</meta>

@@ -1,0 +1,11 @@
+<meta>
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server"/>
+    
+    <file src="files/bg.png"/>
+	<file src="files/i.mp3"/>
+	
+	
+	<export function="Draw" type="client"/>
+	<export function="Draw" type="server"/>
+</meta>
